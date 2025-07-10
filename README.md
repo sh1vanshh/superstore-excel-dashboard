@@ -5,7 +5,7 @@ This is my first Excel dashboard project where I analyzed sales, profit, and dis
 ---
 
 ## 📁 Files Included
-- `FIrst project.xlsx` → Excel dashboard
+- `Superstore Project` → Excel dashboard
 - `Dashboard_Preview.png` → Preview image
 
 ---
